@@ -1,0 +1,193 @@
+body{
+    background-image: url('docdog.jpeg.jpg');
+    height: 100%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-attachment: fixed;
+   }
+
+.welcomeTxt{
+    position: sticky;
+    border-radius: 32px;
+    margin-top: 100px;
+    margin-left: 390px;
+    padding-top: 15px;
+    height: 35%;
+    width: 50%;
+    text-align: center;
+    background-color: #073d3dc3;
+    color: #fff0f0;
+    font-family: "Baskerville Old Face";
+    font-size: 18px;
+}
+
+.heading{
+    position: sticky;
+    height: 10%;
+    width: 100%;
+    margin-top: -25px;
+    padding-top: 1%;
+    background-color: #073d3dc6;
+    color:  #fff0f0;
+    font-family: "Baskerville Old Face";
+    font-size: 20x;
+
+}
+
+.info{
+    font-size: 20px;
+}
+
+.infa{
+    font-size: 16px;
+}
+
+.formInfo{
+    position: sticky;
+    border-radius: 128px 128px 128px 128px;
+    margin-top: 180px;
+    margin-left: 315px;
+    padding-top: 15px;
+    height: 90%;
+    width: 60%;
+    text-align: center;
+    background-color: #073d3dc3;
+    color: #fff0f0;
+    font-size: larger;
+    font-family: "Baskerville Old Face";
+
+}
+
+.formInfo:hover{
+    background-color:#073d3de3 ;
+}
+
+.para{
+    position: sticky;
+    margin-top: 10px;
+    margin-left: 0px;
+    padding-top: 5px;
+    color: #fff0f0;
+    font-size: x-large;
+}
+
+.loginA{
+    color: #fff0f0;
+}
+
+.loginA:hover{
+    font-size: 120%;
+}
+
+input{
+    width: 50%;
+    height: 40px;
+    margin-bottom: 10px;
+    border: none;
+    outline: none;
+    font-size: 17px;
+}
+
+input[type="text"],input[type="email"],input[type="date"]{
+    background: transparent;
+    border-bottom: 1px solid #FFF7D4;
+    color: #FFF7D4;
+}
+
+input[type="submit"]{
+    background-color: #ffffffac;
+    color: rgba(8, 9, 98, 0.75);
+    cursor: pointer;
+    width: 20%;
+}
+
+input[type="submit"]:hover{
+    font-size: 150%;
+    
+}
+
+input[type="reset"]{
+    background-color: #ffffffac;
+    color: rgba(8, 9, 98, 0.75);
+    cursor: pointer;
+    width: 20%;
+}
+
+input[type="reset"]:hover{
+    font-size: 150%;
+    
+}
+
+.footers{
+    height: 35%;
+    width: 30%;
+    position: sticky;
+    text-align: center;
+    margin-top : 90;
+    margin-left: 490px;
+    margin-bottom: 70px;
+    padding-left: 10px;
+    padding-top: 10px;
+    border-radius: 1%;
+    background-color: #073d3dc3;
+    color: #fff0f0;
+    font-size: large;
+    font-family: "Baskerville Old Face";
+}
+
+.soc{
+    color: #fff0f0;
+}
+
+.soc:hover{
+    font-size: 105%;
+    color: #ffffff;
+}
+
+#buttons{
+    color:#fff0f0;
+    border: 0px none;
+    font-size: x-large;
+    cursor: pointer;
+    background: transparent;
+    font-family: "Baskerville Old Face";
+}
+
+.home{
+    position: sticky;
+    margin-top: -60px;
+    margin-left: 990px;
+}
+
+.boarding{
+    position: sticky;
+    margin-top: -60px;
+    margin-left: 1080px;
+}
+
+.profile{
+    position: sticky;
+    margin-left: 1200px;
+    margin-top: -60px;
+}
+
+.about{
+    position: sticky;
+    margin-left: 1290px;
+    margin-top: -60px;
+}
+
+.feedback{
+    position: sticky;
+    margin-left: 1380px;
+    margin-top: -60px;
+}
+
+#buttons:hover{
+    font-size: 175%;
+    text-decoration: underline;
+    color: #000000;
+}
+
+    
